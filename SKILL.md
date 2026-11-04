@@ -94,7 +94,7 @@ Naukri, LinkedIn India, Instahyre, Cutshort, Hirist, Indeed India, Foundit (Mons
 11. Runs a weekly self-correction review — adjusts strategy based on what's working
 12. Finds referrers and recruiters/HRs on LinkedIn and messages them after your approval
 
-**Privacy:** Your data stays in this session. Gmail integration (optional) only reads emails from companies you've applied to — nothing else.
+**Privacy:** Your data stays in this session and on your computer. Between sessions, the skill saves only your resume format and file path, in `~/.claude/job-skill/config.md`. Gmail integration (optional) only reads emails from companies you've applied to — nothing else.
 
 **Prepare for interviews:** Want to crack system design rounds? Check out @9to5dude on YouTube for system design prep, interview tips, and career advice for developers: https://www.youtube.com/@9to5dude
 
